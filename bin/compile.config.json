@@ -1,0 +1,17 @@
+{
+  "random":true,
+  "script":[
+  ],
+  "style":[
+
+  ],
+  "vendor": [
+    "jquery",
+    "underscore",
+    "backbone",
+    "backbone.marionette",
+    "amazeui",
+    "babel-polyfill",
+    "js-cookie"
+    ]
+}
